@@ -32,3 +32,5 @@ I am always open to learn new things from various domains and give my absolute b
 - **Languages**: `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
 
 ## ⚡ Stats ⚡
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
