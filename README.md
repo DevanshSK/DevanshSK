@@ -28,7 +28,7 @@ I am always open to learn new things from various domains and give my absolute b
 - **UI Frameworks**: `Material-UI` `Bootstrap` `TailwindCSS` `Shadcn-UI`
 - **Web technologies**: `HTML5` `CSS3` `ES7+` `a11y`
 - **Databases**: `MongoDB` `MySQL` `PostgreSQL` `Oracle` `Redis`
-- **Misc**: `Git` `Github` `Eslint` `Prettier` `Linux` `Docker` `Bash`
+- **Misc**: `Git` `Github` `Eslint` `Prettier` `Linux` `Docker` `Bash` `SocketIO`
 - **Languages**: `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
 
 ## ⚡ Stats ⚡
