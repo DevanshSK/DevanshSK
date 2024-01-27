@@ -106,12 +106,5 @@ Java                     3 repos             ██░░░░░░░░░�
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
-
-
  Last Updated on 26/01/2024 18:35:04 UTC
 <!--END_SECTION:waka-->
