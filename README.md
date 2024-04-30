@@ -35,11 +35,13 @@ I am always open to learn new things from various domains and give my absolute b
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 262.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 178 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -110,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:36:18 UTC
+ Last Updated on 30/04/2024 18:37:33 UTC
 <!--END_SECTION:waka-->
