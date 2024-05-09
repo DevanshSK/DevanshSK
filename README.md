@@ -76,17 +76,16 @@ Sunday                   82 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-DSA_By_Striver           11 mins             █████████████████████████   99.62 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +105,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2024 18:37:03 UTC
+ Last Updated on 09/05/2024 18:35:30 UTC
 <!--END_SECTION:waka-->
