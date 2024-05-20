@@ -41,8 +41,6 @@ I am always open to learn new things from various domains and give my absolute b
 
 > 📦 262.9 kB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -106,5 +104,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 18:35:31 UTC
+ Last Updated on 20/05/2024 18:37:03 UTC
 <!--END_SECTION:waka-->
