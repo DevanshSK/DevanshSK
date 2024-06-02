@@ -33,13 +33,15 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 262.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 179 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -74,19 +76,18 @@ Sunday                   82 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 34 mins        ███████████████████████░░   93.90 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               1 hr 29 mins        ███████████████████████░░   90.98 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lms-platform             1 hr 29 mins        ██████████████████████░░░   89.20 % 
-mydevember               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+lms-platform             1 hr 29 mins        ███████████████████████░░   90.98 % 
+chat-app-vanilla-js-main 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +107,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2024 18:36:14 UTC
+ Last Updated on 02/06/2024 18:36:42 UTC
 <!--END_SECTION:waka-->
