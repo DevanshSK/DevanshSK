@@ -33,8 +33,6 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -49,45 +47,6 @@ I am always open to learn new things from various domains and give my absolute b
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-🌆 Daytime                100 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌃 Evening                209 commits         ██████████░░░░░░░░░░░░░░░   41.55 % 
-🌙 Night                  187 commits         █████████░░░░░░░░░░░░░░░░   37.18 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   76 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Wednesday                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Friday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Saturday                 89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Lab                      0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -105,5 +64,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 18:39:08 UTC
+ Last Updated on 15/06/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
