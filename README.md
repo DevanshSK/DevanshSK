@@ -80,7 +80,7 @@ Java                     1 hr 10 mins        ███████████�
 IntelliJ IDEA            1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           1 hr 9 mins         █████████████████████████   98.74 % 
+DSA_By_Striver           1 hr 10 mins        █████████████████████████   98.74 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
@@ -104,5 +104,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 18:38:38 UTC
+ Last Updated on 03/07/2024 18:37:28 UTC
 <!--END_SECTION:waka-->
