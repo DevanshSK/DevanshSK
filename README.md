@@ -33,9 +33,9 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,18 +74,23 @@ Sunday                   82 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     4 hrs 33 mins       █████████████████████████   99.73 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Java                     4 hrs 16 mins       ███████████████░░░░░░░░░░   60.89 % 
+TypeScript               2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 34 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 16 mins       ███████████████░░░░░░░░░░   61.06 % 
+VS Code                  2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           4 hrs 29 mins       █████████████████████████   98.26 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+DSA_By_Striver           4 hrs 12 mins       ███████████████░░░░░░░░░░   59.93 % 
+devanshsk                2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +110,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2024 18:40:28 UTC
+ Last Updated on 11/07/2024 18:38:56 UTC
 <!--END_SECTION:waka-->
