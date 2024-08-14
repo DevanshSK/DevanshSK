@@ -33,15 +33,13 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 196.1 kB Used in GitHub's Storage 
- > 
-> 🏆 189 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -76,16 +74,16 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 44 mins       █████████████████████████   100.00 % 
+Java                     5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           5 hrs 44 mins       █████████████████████████   100.00 % 
+DSA_By_Striver           5 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +103,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2024 18:40:31 UTC
+ Last Updated on 14/08/2024 18:39:50 UTC
 <!--END_SECTION:waka-->
