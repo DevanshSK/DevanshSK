@@ -41,8 +41,6 @@ I am always open to learn new things from various domains and give my absolute b
 
 > 📦 196.1 kB Used in GitHub's Storage 
  > 
-> 🏆 189 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -76,16 +74,16 @@ Sunday                   79 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     4 hrs 43 mins       █████████████████████████   100.00 % 
+Java                     3 hrs 57 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 43 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           4 hrs 43 mins       █████████████████████████   100.00 % 
+DSA_By_Striver           3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +103,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:39:58 UTC
+ Last Updated on 17/08/2024 18:37:58 UTC
 <!--END_SECTION:waka-->
