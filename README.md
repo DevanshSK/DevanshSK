@@ -33,7 +33,7 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -85,9 +85,9 @@ IntelliJ IDEA            4 hrs 28 mins       ███████████�
 VS Code                  3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.72 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   34.39 % 
 3d-portfolio             2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.47 % 
-journalApp               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+journalApp               2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+DSA_By_Striver           2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 abundrfbackend           41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 abun-react-frontend      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
@@ -112,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2024 18:41:14 UTC
+ Last Updated on 16/09/2024 18:43:03 UTC
 <!--END_SECTION:waka-->
