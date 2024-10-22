@@ -33,13 +33,13 @@ I am always open to learn new things from various domains and give my absolute b
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 210.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 221 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -47,46 +47,6 @@ I am always open to learn new things from various domains and give my absolute b
  > 
 > 🔑 15 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-🌆 Daytime                110 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-🌃 Evening                218 commits         ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌙 Night                  206 commits         ██████████░░░░░░░░░░░░░░░   38.15 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   90 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Friday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 92 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Sunday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Prisma                   10 mins             █████████████████████████   98.82 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-
-🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-webprodigies-grouple     10 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -104,5 +64,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:44:08 UTC
+ Last Updated on 22/10/2024 18:43:45 UTC
 <!--END_SECTION:waka-->
