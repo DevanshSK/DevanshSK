@@ -41,6 +41,8 @@ I am always open to learn new things from various domains and give my absolute b
 
 > 📦 210.9 kB Used in GitHub's Storage 
  > 
+> 🏆 221 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -74,17 +76,16 @@ Sunday                   88 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Prisma                   10 mins             █████████████████████████   98.82 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-webprodigies-grouple     10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,5 +105,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2024 18:43:29 UTC
+ Last Updated on 24/10/2024 18:43:44 UTC
 <!--END_SECTION:waka-->
