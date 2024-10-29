@@ -10,26 +10,29 @@
 [![GitHub: @devanshsk](https://img.shields.io/github/followers/devanshsk?label=follow&style=social)](https://github.com/devanshsk)
 [![Gmail: Devansh](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:work.devanshsk@gmail.com)
 
-💡 &nbsp;I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
+💡 &nbsp;Hello! I'm a passionate Software Developer 🧑‍💻 currently working at Torus Innotech, where I specialize in building scalable web and mobile applications.
 
-🎓 &nbsp;Currently in my 3rd year pursuing B.Tech from `Institute of Technology and Mangement, Gwalior` 🏫 in Information Technology.
+I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
-🌱 &nbsp;My passion lies in creating solutions 🚩 to real life problems, developing web apps and discussing new ideas with enthusiastic peoples.
-I am always open to learn new things from various domains and give my absolute best as needed.
+🎓 &nbsp;Currently in my final year pursuing B.Tech from `Institute of Technology and Mangement, Gwalior` 🏫 in Information Technology.
+
+💼 Building enterprise-level applications serving 100,000+ users across India.
+
+🛠️ Crafting efficient solutions for complex business problems.
 
 ✍️ &nbsp;In my spare time, I like to play games 🎮, watch 📺 anime, or chilling to spotify🎧.
 
 💬 &nbsp;If you would like to talk 👋 , please feel free to reach out to me 😄.
 
 ##  🎉 Skills  🎉
-- **FrontEnd**: `React` `Redux` `NextJS` `SASS` `Webpack`
-- **BackEnd**: `Node.js` `Express` `Spring` `JavaEE`
-- **Mobile**: `React Native` `Flutter` `Native Android`
-- **UI Frameworks**: `Material-UI` `Bootstrap` `TailwindCSS` `Shadcn-UI`
-- **Web technologies**: `HTML5` `CSS3` `ES7+` `a11y`
-- **Databases**: `MongoDB` `MySQL` `PostgreSQL` `Oracle` `Redis`
-- **Misc**: `Git` `Github` `Eslint` `Prettier` `Linux` `Docker` `Bash` `SocketIO`
-- **Languages**: `JavaScript` `TypeScript` `Java` `Kotlin` `Dart` `SQL`
+- **FrontEnd**: `React` `Redux` `NextJS` `SASS` `Webpack` `GraphQL`
+- **BackEnd**: `Node.js` `Express` `Spring` `Spring Boot` `Spring MVC`
+- **Mobile**: `React Native` `Flutter` `Android` 
+- **UI Frameworks**: `Material-UI` `Bootstrap` `TailwindCSS` `Shadcn-UI` `Ant Design`
+- **Web technologies**: `HTML5` `CSS3` `ES7+` `a11y` `Restful API` 
+- **Databases**: `MongoDB` `MySQL` `PostgreSQL` `Oracle` `Redis` `Prisma` `Mongoose`
+- **Tools**: `Git` `Github` `Eslint` `Prettier` `Linux` `Docker` `TurboRepo` `Nx` `AWS` `Webpack` `Bash` `SocketIO`
+- **Languages**: `JavaScript` `TypeScript` `Java` `JavaEE` `Dart` `SQL`
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
