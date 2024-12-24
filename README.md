@@ -38,7 +38,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,17 +79,16 @@ Sunday                   88 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               28 mins             █████████████████████░░░░   85.85 % 
-CSS                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-portfolio                33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +108,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2024 18:42:34 UTC
+ Last Updated on 24/12/2024 18:42:17 UTC
 <!--END_SECTION:waka-->
