@@ -36,15 +36,13 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 212.7 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,22 +77,16 @@ Sunday                   89 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 1 min          ██████████████░░░░░░░░░░░   55.83 % 
-JavaScript               46 mins             ██████████░░░░░░░░░░░░░░░   41.61 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Java                     2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 1 min          ██████████████░░░░░░░░░░░   55.83 % 
-VS Code                  48 mins             ███████████░░░░░░░░░░░░░░   44.17 % 
+IntelliJ IDEA            2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           1 hr 1 min          ██████████████░░░░░░░░░░░   55.83 % 
-fundamentals             48 mins             ███████████░░░░░░░░░░░░░░   44.17 % 
+DSA_By_Striver           2 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +106,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2025 18:40:07 UTC
+ Last Updated on 20/01/2025 18:41:13 UTC
 <!--END_SECTION:waka-->
