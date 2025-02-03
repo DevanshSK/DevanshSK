@@ -36,13 +36,15 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 212.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,16 +79,20 @@ Sunday                   89 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     2 hrs 40 mins       █████████████████████████   100.00 % 
+Java                     2 hrs 6 mins        ████████████████████████░   94.22 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 40 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 6 mins        ████████████████████████░   94.22 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🐱‍💻 Projects: 
-DSA_By_Striver           2 hrs 40 mins       █████████████████████████   100.00 % 
+DSA_By_Striver           2 hrs 6 mins        ████████████████████████░   94.22 % 
+slide                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Windows                  2 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +112,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:41:01 UTC
+ Last Updated on 03/02/2025 18:41:13 UTC
 <!--END_SECTION:waka-->
