@@ -36,7 +36,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,10 +79,10 @@ Sunday                   89 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       █████████████████████░░░░   82.37 % 
+TypeScript               9 hrs 19 mins       ████████████████████░░░░░   81.70 % 
 JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
@@ -116,5 +116,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2025 18:44:28 UTC
+ Last Updated on 08/03/2025 18:44:27 UTC
 <!--END_SECTION:waka-->
