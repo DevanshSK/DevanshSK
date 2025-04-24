@@ -44,8 +44,6 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 222.9 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -79,16 +77,16 @@ Sunday                   98 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DSA_By_Striver           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +106,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 18:49:26 UTC
+ Last Updated on 24/04/2025 18:47:07 UTC
 <!--END_SECTION:waka-->
