@@ -36,8 +36,6 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -50,45 +48,6 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-🌆 Daytime                118 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-🌃 Evening                228 commits         ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌙 Night                  213 commits         █████████░░░░░░░░░░░░░░░░   37.70 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   92 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Tuesday                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Friday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Saturday                 95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Sunday                   98 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -106,5 +65,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:47:33 UTC
+ Last Updated on 02/05/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
