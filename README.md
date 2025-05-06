@@ -36,7 +36,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,18 +77,19 @@ Sunday                   99 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   37 mins             ██████████████████████░░░   87.86 % 
-JavaScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Python                   37 mins             █████████████░░░░░░░░░░░░   51.88 % 
+JavaScript               34 mins             ████████████░░░░░░░░░░░░░   48.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Practical                37 mins             ██████████████████████░░░   87.86 % 
-ULTIMATE REACT COURSE    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Practical                37 mins             █████████████░░░░░░░░░░░░   51.88 % 
+ULTIMATE REACT COURSE    34 mins             ████████████░░░░░░░░░░░░░   48.12 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +109,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 18:45:13 UTC
+ Last Updated on 06/05/2025 18:46:32 UTC
 <!--END_SECTION:waka-->
