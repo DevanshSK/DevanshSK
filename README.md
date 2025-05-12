@@ -36,7 +36,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,9 +44,11 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 223.1 kB Used in GitHub's Storage 
  > 
+> 🏆 33 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -77,19 +79,19 @@ Sunday                   105 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 50 mins       █████████████████████████   99.86 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               7 hrs 40 mins       ████████████████████████░   94.30 % 
+CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ULTIMATE REACT COURSE    4 hrs 42 mins       ████████████████████████░   97.24 % 
-Test Folder              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+ULTIMATE REACT COURSE    7 hrs 59 mins       █████████████████████████   98.35 % 
+Test Folder              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +111,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:44:13 UTC
+ Last Updated on 12/05/2025 18:48:46 UTC
 <!--END_SECTION:waka-->
