@@ -36,13 +36,13 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2056%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 224.6 kB Used in GitHub's Storage 
- > 
-> 🏆 112 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,6 +50,46 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+🌆 Daytime                140 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+🌃 Evening                284 commits         ███████████░░░░░░░░░░░░░░   42.07 % 
+🌙 Night                  245 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Wednesday                77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Friday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 105 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Sunday                   119 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               12 mins             █████████████████████████   99.01 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+
+🔥 Editors: 
+VS Code                  12 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+reelcart-frontend        12 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  12 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,5 +107,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:49:33 UTC
+ Last Updated on 02/07/2025 18:50:31 UTC
 <!--END_SECTION:waka-->
