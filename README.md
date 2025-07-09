@@ -36,15 +36,13 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 224.7 kB Used in GitHub's Storage 
- > 
-> 🏆 144 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -79,17 +77,17 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 46 mins       ████████████████████████░   94.15 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+TypeScript               3 hrs 22 mins       ████████████████████████░   95.19 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reelcart-frontend        2 hrs 56 mins       █████████████████████████   100.00 % 
+reelcart-frontend        3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +107,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 18:51:31 UTC
+ Last Updated on 09/07/2025 18:51:39 UTC
 <!--END_SECTION:waka-->
