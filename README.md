@@ -36,15 +36,13 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 224.7 kB Used in GitHub's Storage 
- > 
-> 🏆 148 Contributions in the Year 2025
+> 📦 224.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -79,18 +77,19 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       ███████████████████████░░   93.25 % 
-CSS                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript               3 hrs 4 mins        ██████████████████████░░░   86.50 % 
+TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-reelcart-frontend        1 hr 55 mins        ███████████████████░░░░░░   76.31 % 
-reelcart-shopify         35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+reelcart-frontend        1 hr 55 mins        ██████████████░░░░░░░░░░░   54.26 % 
+reelcart-shopify         1 hr 37 mins        ███████████░░░░░░░░░░░░░░   45.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,5 +109,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 18:51:04 UTC
+ Last Updated on 12/07/2025 18:48:26 UTC
 <!--END_SECTION:waka-->
