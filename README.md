@@ -44,6 +44,8 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 224.8 kB Used in GitHub's Storage 
  > 
+> 🏆 151 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -108,5 +110,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:53:18 UTC
+ Last Updated on 17/07/2025 18:53:52 UTC
 <!--END_SECTION:waka-->
