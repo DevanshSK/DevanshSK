@@ -79,17 +79,16 @@ Sunday                   122 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               54 mins             ███████████████████████░░   90.84 % 
-HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JS Interviews            59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +108,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:13:25 UTC
+ Last Updated on 13/04/2026 19:47:06 UTC
 <!--END_SECTION:waka-->
