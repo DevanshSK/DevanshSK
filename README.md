@@ -38,7 +38,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,5 +106,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 19:52:39 UTC
+ Last Updated on 29/06/2026 20:21:59 UTC
 <!--END_SECTION:waka-->
