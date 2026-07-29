@@ -36,6 +36,8 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,6 +52,51 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+🌆 Daytime                72 commits          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+🌃 Evening                116 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
+🌙 Night                  100 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Tuesday                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Saturday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -65,5 +112,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:59:21 UTC
+ Last Updated on 29/07/2026 19:51:20 UTC
 <!--END_SECTION:waka-->
