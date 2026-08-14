@@ -100,9 +100,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             █████████████░░░░░░░░░░░░   53.85 % 
-TypeScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
@@ -112,5 +112,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:32:59 UTC
+ Last Updated on 14/08/2026 19:27:23 UTC
 <!--END_SECTION:waka-->
