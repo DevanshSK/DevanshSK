@@ -36,9 +36,9 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,42 +81,42 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     1 hr 12 mins        █████████████████████░░░░   84.07 % 
-TypeScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+JSON                     1 hr 12 mins        ████████████████████░░░░░   78.84 % 
+TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 4 mins         ███████████████████░░░░░░   74.56 % 
-VS Code                  21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Antigravity CLI          1 hr 10 mins        ███████████████████░░░░░░   76.14 % 
+VS Code                  21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
 
 🐱‍💻 Projects: 
-3d-animation             1 hr 26 mins        █████████████████████████   100.00 % 
+3d-animation             1 hr 32 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (77.18%)
+⏱ AI Coding Time: 1 hr 12 mins (78.6%)
 
-✍️ 0 lines written by AI, 21 lines written by hand (0.0% AI-written)
+✍️ 1 lines written by AI, 21 lines written by hand (4.55% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 15 AI Prompts
+🧠 6 AI Sessions, 15 AI Prompts
 
-Gemini                   24 lines            █████████████████████████   100.00 % 
+Gemini                   25 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.55% of written lines came from AI
 📄 Detailed Prompter — average 1,064 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 47.83% of changed lines were hand-edited
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 46.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,5 +134,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:01:53 UTC
+ Last Updated on 20/08/2026 19:09:36 UTC
 <!--END_SECTION:waka-->
