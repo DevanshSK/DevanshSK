@@ -46,7 +46,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 165.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,21 +57,21 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-🌆 Daytime                72 commits          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-🌃 Evening                116 commits         ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌙 Night                  100 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+🌆 Daytime                88 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌃 Evening                116 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
+🌙 Night                  100 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Saturday                 44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Saturday                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 
@@ -119,12 +119,13 @@ Gemini                   25 lines            ███████████�
 🚀 High AI Trust — 46.81% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Swift                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -134,5 +135,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:05:33 UTC
+ Last Updated on 22/08/2026 18:56:54 UTC
 <!--END_SECTION:waka-->
