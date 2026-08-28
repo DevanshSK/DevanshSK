@@ -57,21 +57,21 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-🌆 Daytime                88 commits          ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-🌃 Evening                116 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌙 Night                  100 commits         ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
+🌃 Evening                116 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌙 Night                  100 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Saturday                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Friday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Saturday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Sunday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 ```
 
 
@@ -81,45 +81,43 @@ Sunday                   62 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     17 mins             ████████░░░░░░░░░░░░░░░░░   32.83 % 
-JavaScript               17 mins             ████████░░░░░░░░░░░░░░░░░   32.22 % 
-TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     31 mins             ████████░░░░░░░░░░░░░░░░░   30.22 % 
+TypeScript               24 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+JavaScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 🔥 Editors: 
-VS Code                  34 mins             ████████████████░░░░░░░░░   64.87 % 
-Antigravity CLI          18 mins             █████████░░░░░░░░░░░░░░░░   35.13 % 
+VS Code                  1 hr 3 mins         ███████████████░░░░░░░░░░   60.97 % 
+Antigravity CLI          40 mins             ██████████░░░░░░░░░░░░░░░   39.03 % 
 
 🐱‍💻 Projects: 
-Firebase test app        27 mins             █████████████░░░░░░░░░░░░   51.44 % 
-mm-webapp                20 mins             █████████░░░░░░░░░░░░░░░░   37.93 % 
-3d-animation             5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+mm-mobile                49 mins             ████████████░░░░░░░░░░░░░   47.63 % 
+Firebase test app        27 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+mm-webapp                26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (77.78%)
+⏱ AI Coding Time: 1 hr 10 mins (67.75%)
 
-✍️ 1 lines written by AI, 11 lines written by hand (8.33% AI-written)
+✍️ 0 lines written by AI, 24 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 20 AI Prompts
-
-Gemini                   1 lines             █████████████████████████   100.00 % 
+🧠 5 AI Sessions, 40 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.33% of written lines came from AI
-📄 Detailed Prompter — average 574 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 91.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 838 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,5 +136,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:30:41 UTC
+ Last Updated on 28/08/2026 02:16:07 UTC
 <!--END_SECTION:waka-->
