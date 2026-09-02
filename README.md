@@ -36,9 +36,9 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,21 +57,21 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-🌆 Daytime                104 commits         ████████░░░░░░░░░░░░░░░░░   31.61 % 
-🌃 Evening                119 commits         █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌙 Night                  101 commits         ████████░░░░░░░░░░░░░░░░░   30.70 % 
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+🌆 Daytime                104 commits         ████████░░░░░░░░░░░░░░░░░   30.86 % 
+🌃 Evening                127 commits         █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌙 Night                  101 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Wednesday                41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Saturday                 74 commits          ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Sunday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Monday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Thursday                 35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Saturday                 74 commits          █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Sunday                   64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
 ```
 
 
@@ -81,44 +81,43 @@ Sunday                   64 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.91 % 
-Markdown                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-JSON                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
+Markdown                 2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+JSON                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
 
 🔥 Editors: 
-Antigravity CLI          4 hrs 26 mins       █████████████░░░░░░░░░░░░   53.84 % 
-VS Code                  3 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+Antigravity CLI          6 hrs 40 mins       ██████████████░░░░░░░░░░░   55.88 % 
+VS Code                  5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
 
 🐱‍💻 Projects: 
-mm-mobile                5 hrs 55 mins       ██████████████████░░░░░░░   71.82 % 
-VidyutTech               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-mm-webapp                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Firebase test app        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-work-logs                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+mm-mobile                9 hrs 57 mins       █████████████████████░░░░   83.35 % 
+VidyutTech               1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+mm-webapp                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+work-logs                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  8 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (79.39%)
+⏱ AI Coding Time: 9 hrs 52 mins (82.63%)
 
-✍️ 0 lines written by AI, 44 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 156 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 141 AI Prompts
+🧠 19 AI Sessions, 171 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,053 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 1,005 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -138,5 +137,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:11:44 UTC
+ Last Updated on 02/09/2026 21:11:24 UTC
 <!--END_SECTION:waka-->
