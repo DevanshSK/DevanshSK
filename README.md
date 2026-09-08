@@ -81,28 +81,28 @@ Sunday                   64 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 1 min         ████████████░░░░░░░░░░░░░   46.18 % 
-YAML                     1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Markdown                 1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               2 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.96 % 
+YAML                     1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Antigravity CLI          3 hrs 51 mins       ███████████████░░░░░░░░░░   58.83 % 
-VS Code                  2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.17 % 
+Antigravity CLI          3 hrs 11 mins       ███████████████░░░░░░░░░░   61.07 % 
+VS Code                  2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.93 % 
 
 🐱‍💻 Projects: 
-mm-mobile                5 hrs 53 mins       ██████████████████████░░░   89.90 % 
-VidyutTech               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+mm-mobile                4 hrs 59 mins       ████████████████████████░   95.41 % 
+VidyutTech               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 35 mins (85.23%)
+⏱ AI Coding Time: 4 hrs 36 mins (87.99%)
 
 ✍️ 0 lines written by AI, 125 lines written by hand (0.0% AI-written)
 
@@ -110,12 +110,12 @@ Windows                  6 hrs 33 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 90 AI Prompts
+🧠 5 AI Sessions, 59 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 890 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 762 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -135,5 +135,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:40:40 UTC
+ Last Updated on 08/09/2026 21:18:38 UTC
 <!--END_SECTION:waka-->
