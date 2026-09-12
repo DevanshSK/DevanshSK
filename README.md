@@ -44,7 +44,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 **🐱 My GitHub Data** 
 
-> 📦 165.5 kB Used in GitHub's Storage 
+> 📦 165.6 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2026
  > 
@@ -81,28 +81,28 @@ Sunday                   64 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     1 hr 22 mins        ███████████░░░░░░░░░░░░░░   45.35 % 
-JSON                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-TypeScript               37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+YAML                     1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   41.41 % 
+JSON                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+TypeScript               37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 19 mins       ███████████████████░░░░░░   76.98 % 
-VS Code                  41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Antigravity CLI          2 hrs 36 mins       ████████████████████░░░░░   78.98 % 
+VS Code                  41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
 
 🐱‍💻 Projects: 
-mm-webapp                1 hr 49 mins        ███████████████░░░░░░░░░░   60.53 % 
-mm-mobile                1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.47 % 
+mm-webapp                2 hrs 6 mins        ████████████████░░░░░░░░░   63.96 % 
+mm-mobile                1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   36.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 46 mins (91.89%)
+⏱ AI Coding Time: 3 hrs 3 mins (92.59%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -110,7 +110,7 @@ Windows                  3 hrs               ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 8 AI Sessions, 28 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -135,5 +135,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:07:19 UTC
+ Last Updated on 12/09/2026 20:45:31 UTC
 <!--END_SECTION:waka-->
