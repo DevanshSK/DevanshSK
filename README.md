@@ -36,9 +36,9 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,7 +46,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 165.7 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2026
+> 🏆 53 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,21 +57,21 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-🌆 Daytime                187 commits         ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-🌃 Evening                293 commits         ███████████░░░░░░░░░░░░░░   45.50 % 
-🌙 Night                  159 commits         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+🌞 Morning                5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+🌆 Daytime                187 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+🌃 Evening                301 commits         ████████████░░░░░░░░░░░░░   46.09 % 
+🌙 Night                  160 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-Sunday                   161 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Monday                   99 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Thursday                 82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Saturday                 142 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Sunday                   162 commits         ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 ```
 
 
@@ -81,44 +81,44 @@ Sunday                   161 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Markdown                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Other                    2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+TypeScript               4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Markdown                 4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+JSON                     2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Other                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 
 🔥 Editors: 
-Antigravity CLI          10 hrs 37 mins      █████████████████░░░░░░░░   66.13 % 
-VS Code                  5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Antigravity CLI          10 hrs 26 mins      ████████████████░░░░░░░░░   62.90 % 
+VS Code                  6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.10 % 
 
 🐱‍💻 Projects: 
-mm-webapp                7 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.59 % 
-mm-mobile                4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
-MuscleMechanics          3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Testing-3d               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+mm-mobile                5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.21 % 
+mm-webapp                5 hrs               ████████░░░░░░░░░░░░░░░░░   30.16 % 
+MuscleMechanics          3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Testing-3d               2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Windows                  16 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (79.38%)
+⏱ AI Coding Time: 13 hrs 41 mins (82.44%)
 
-✍️ 0 lines written by AI, 5,565 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,258 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 329 AI Prompts
+🧠 24 AI Sessions, 321 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 809 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📄 Detailed Prompter — average 814 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 20:58:17 UTC
+ Last Updated on 21/09/2026 22:06:18 UTC
 <!--END_SECTION:waka-->
