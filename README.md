@@ -81,44 +81,44 @@ Sunday                   162 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-JavaScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-TypeScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JSON                     1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+JavaScript               1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Other                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████░░░░░░░░░░░░   53.18 % 
-Antigravity CLI          3 hrs 29 mins       ████████████░░░░░░░░░░░░░   46.82 % 
+VS Code                  3 hrs 13 mins       ██████████████░░░░░░░░░░░   55.26 % 
+Antigravity CLI          2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
 
 🐱‍💻 Projects: 
-mm-mobile                4 hrs               █████████████░░░░░░░░░░░░   53.79 % 
-Testing-3d               2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-MuscleMechanics          43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-mm-webapp                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+mm-mobile                2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
+Testing-3d               2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.18 % 
+MuscleMechanics          43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+gradle                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+mm-webapp                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Windows                  7 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (72.12%)
+⏱ AI Coding Time: 4 hrs 14 mins (72.66%)
 
-✍️ 0 lines written by AI, 55 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 38 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 161 AI Prompts
+🧠 7 AI Sessions, 91 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
+📝 Concise Prompter — average 487 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 21:45:06 UTC
+ Last Updated on 26/09/2026 21:22:16 UTC
 <!--END_SECTION:waka-->
