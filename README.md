@@ -81,41 +81,44 @@ Sunday                   180 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 5 mins         █████████████░░░░░░░░░░░░   53.91 % 
-JavaScript               55 mins             ███████████░░░░░░░░░░░░░░   45.44 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   37.44 % 
+JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Other                    43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 29 mins        ██████████████████░░░░░░░   72.92 % 
-VS Code                  33 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Antigravity CLI          2 hrs 37 mins       ████████████████████░░░░░   81.10 % 
+VS Code                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 
 🐱‍💻 Projects: 
-Testing-3d               2 hrs 2 mins        █████████████████████████   100.00 % 
+Testing-3d               2 hrs 2 mins        ████████████████░░░░░░░░░   62.94 % 
+mm-webapp                1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.54 % 
+superpowers              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (85.01%)
+⏱ AI Coding Time: 2 hrs 56 mins (90.57%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 126,147 Input Tokens, 6,804 Output Tokens
+🔤 780,614 Input Tokens, 25,140 Output Tokens
 
-💵 $0.12 Estimated AI Cost This Week
+💵 $0.68 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 51 AI Prompts
+🧠 4 AI Sessions, 64 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 757 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
+📄 Detailed Prompter — average 869 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -134,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:49:49 UTC
+ Last Updated on 02/10/2026 22:25:57 UTC
 <!--END_SECTION:waka-->
