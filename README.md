@@ -81,41 +81,42 @@ Sunday                   210 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    48 mins             ████████████████░░░░░░░░░   62.68 % 
-TypeScript               21 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+TypeScript               1 hr 14 mins        ████████████░░░░░░░░░░░░░   48.28 % 
+Other                    1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.89 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 13 mins        ████████████████████████░   95.30 % 
-VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Antigravity CLI          2 hrs 22 mins       ███████████████████████░░   91.71 % 
+VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🐱‍💻 Projects: 
-mm-webapp                1 hr 9 mins         ███████████████████████░░   91.11 % 
-superpowers              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Testing-3d               1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.98 % 
+mm-webapp                1 hr 9 mins         ███████████░░░░░░░░░░░░░░   45.19 % 
+superpowers              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 34 mins (99.46%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 654,467 Input Tokens, 18,336 Output Tokens
+🔤 688,763 Input Tokens, 19,426 Output Tokens
 
-💵 $0.56 Estimated AI Cost This Week
+💵 $0.64 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 17 AI Prompts
+🧠 4 AI Sessions, 60 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 1,109 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📄 Detailed Prompter — average 519 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -134,5 +135,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:14:03 UTC
+ Last Updated on 06/10/2026 22:44:05 UTC
 <!--END_SECTION:waka-->
