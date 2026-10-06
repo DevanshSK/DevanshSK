@@ -58,20 +58,20 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ```text
 🌞 Morning                8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-🌆 Daytime                209 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-🌃 Evening                382 commits         ████████████░░░░░░░░░░░░░   48.05 % 
-🌙 Night                  196 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+🌆 Daytime                210 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌃 Evening                382 commits         ████████████░░░░░░░░░░░░░   47.99 % 
+🌙 Night                  196 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Wednesday                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Saturday                 165 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Sunday                   210 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Monday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Tuesday                  79 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Wednesday                52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Thursday                 88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Saturday                 165 commits         █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+Sunday                   210 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 
 
@@ -81,45 +81,42 @@ Sunday                   210 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.54 % 
-JavaScript               55 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Other                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    48 mins             ████████████████░░░░░░░░░   62.68 % 
+TypeScript               21 mins             ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 42 mins       ████████████████████░░░░░   81.55 % 
-VS Code                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Antigravity CLI          1 hr 13 mins        ████████████████████████░   95.30 % 
+VS Code                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-Testing-3d               2 hrs 2 mins        ███████████████░░░░░░░░░░   61.43 % 
-mm-webapp                1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.15 % 
-superpowers              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+mm-webapp                1 hr 9 mins         ███████████████████████░░   91.11 % 
+superpowers              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs (90.79%)
+⏱ AI Coding Time: 1 hr 16 mins (100.0%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 780,614 Input Tokens, 25,140 Output Tokens
+🔤 654,467 Input Tokens, 18,336 Output Tokens
 
-💵 $0.68 Estimated AI Cost This Week
+💵 $0.56 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 68 AI Prompts
+🧠 3 AI Sessions, 17 AI Prompts
 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 845 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 1,109 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,5 +134,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:44:48 UTC
+ Last Updated on 06/10/2026 00:14:03 UTC
 <!--END_SECTION:waka-->
