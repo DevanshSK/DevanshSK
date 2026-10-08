@@ -36,7 +36,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2044%20mins-blue?style=flat)
 
@@ -81,30 +81,30 @@ Sunday                   229 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 14 mins        ████████████░░░░░░░░░░░░░   48.14 % 
-Other                    1 hr 6 mins         ███████████░░░░░░░░░░░░░░   42.77 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.69 % 
+Other                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.15 % 
+Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 22 mins       ███████████████████████░░   91.44 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Antigravity CLI          2 hrs 22 mins       ███████████████████░░░░░░   77.30 % 
+VS Code                  41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
 
 🐱‍💻 Projects: 
-Testing-3d               1 hr 11 mins        ████████████░░░░░░░░░░░░░   46.14 % 
-mm-webapp                1 hr 9 mins         ███████████░░░░░░░░░░░░░░   45.06 % 
-superpowers              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Testing-3d               1 hr 40 mins        ██████████████░░░░░░░░░░░   54.47 % 
+mm-webapp                1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   38.09 % 
+superpowers              13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 💻 Operating System: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (99.17%)
+⏱ AI Coding Time: 2 hrs 34 mins (83.83%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 688,763 Input Tokens, 19,426 Output Tokens
 
@@ -136,5 +136,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:14:36 UTC
+ Last Updated on 08/10/2026 23:29:50 UTC
 <!--END_SECTION:waka-->
