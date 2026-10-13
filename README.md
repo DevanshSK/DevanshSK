@@ -81,44 +81,44 @@ Sunday                   246 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               53 mins             █████████░░░░░░░░░░░░░░░░   34.93 % 
-Markdown                 49 mins             ████████░░░░░░░░░░░░░░░░░   32.82 % 
-Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Markdown                 43 mins             ███████████████░░░░░░░░░░   58.17 % 
+JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Image (jpeg)             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-Antigravity CLI          1 hr 46 mins        ██████████████████░░░░░░░   70.26 % 
-VS Code                  45 mins             ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Antigravity CLI          38 mins             █████████████░░░░░░░░░░░░   51.39 % 
+VS Code                  36 mins             ████████████░░░░░░░░░░░░░   48.61 % 
 
 🐱‍💻 Projects: 
-Testing-3d               2 hrs 13 mins       ██████████████████████░░░   87.63 % 
-superpowers              17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Testing-3d               1 hr 2 mins         █████████████████████░░░░   83.84 % 
+superpowers              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (76.17%)
+⏱ AI Coding Time: 38 mins (52.17%)
 
 ✍️ 1,684 lines written by AI, 2 lines written by hand (99.88% AI-written)
 
-🔤 624,087 Input Tokens, 91,202 Output Tokens
+🔤 589,791 Input Tokens, 90,112 Output Tokens
 
-💵 $2.29 Estimated AI Cost This Week
+💵 $2.21 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 53 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Gemini                   1,684 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.88% of written lines came from AI
-📝 Concise Prompter — average 291 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
+📝 Concise Prompter — average 310 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.18% of changed lines were hand-edited
 ```
 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 00:54:02 UTC
+ Last Updated on 13/10/2026 23:00:04 UTC
 <!--END_SECTION:waka-->
