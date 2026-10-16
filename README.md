@@ -46,7 +46,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 > 📦 165.9 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2026
+> 🏆 148 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -57,21 +57,21 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-🌆 Daytime                243 commits         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-🌃 Evening                491 commits         ████████████░░░░░░░░░░░░░   49.00 % 
-🌙 Night                  256 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+🌆 Daytime                280 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+🌃 Evening                529 commits         ████████████░░░░░░░░░░░░░   47.66 % 
+🌙 Night                  281 commits         ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   152 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Tuesday                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Thursday                 90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Friday                   120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Saturday                 231 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Sunday                   246 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Monday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Tuesday                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Thursday                 91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Friday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Saturday                 292 commits         ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Sunday                   254 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 ```
 
 
@@ -81,31 +81,31 @@ Sunday                   246 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 43 mins             ███████████████░░░░░░░░░░   58.53 % 
-JSON                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Image (jpeg)             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Markdown                 28 mins             ████████████████░░░░░░░░░   63.19 % 
+Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Image (jpeg)             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Antigravity CLI          38 mins             █████████████░░░░░░░░░░░░   51.70 % 
-VS Code                  35 mins             ████████████░░░░░░░░░░░░░   48.30 % 
+Antigravity CLI          38 mins             █████████████████████░░░░   84.22 % 
+VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 🐱‍💻 Projects: 
-Testing-3d               1 hr 1 min          █████████████████████░░░░   83.74 % 
-superpowers              10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Testing-3d               33 mins             ██████████████████░░░░░░░   73.52 % 
+superpowers              10 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 mins (52.49%)
+⏱ AI Coding Time: 38 mins (85.5%)
 
-✍️ 1,684 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 1,684 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 589,791 Input Tokens, 90,112 Output Tokens
 
@@ -116,10 +116,10 @@ Windows                  1 hr 13 mins        ███████████�
 Gemini                   1,684 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 310 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,5 +137,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 21:36:13 UTC
+ Last Updated on 16/10/2026 21:29:09 UTC
 <!--END_SECTION:waka-->
