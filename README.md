@@ -36,9 +36,9 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -81,45 +81,43 @@ Sunday                   272 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 20 mins             █████████████████░░░░░░░░   66.11 % 
-YAML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-TypeScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 31 mins             ██████████████████░░░░░░░   73.16 % 
+YAML                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-Antigravity CLI          30 mins             █████████████████████████   98.12 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Antigravity CLI          43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Testing-3d               11 mins             █████████░░░░░░░░░░░░░░░░   37.72 % 
-superpowers              10 mins             ████████░░░░░░░░░░░░░░░░░   33.79 % 
-mm-webapp                8 mins              ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+portfolio                32 mins             ███████████████████░░░░░░   76.19 % 
+mm-webapp                8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+superpowers              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
+⏱ AI Coding Time: 43 mins (100.0%)
 
-✍️ 1,684 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 443,309 Input Tokens, 88,548 Output Tokens
+🔤 194,270 Input Tokens, 11,099 Output Tokens
 
-💵 $1.90 Estimated AI Cost This Week
+💵 $0.52 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
-Gemini                   1,684 lines         █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 272 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 174 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -137,5 +135,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 20:57:15 UTC
+ Last Updated on 19/10/2026 22:33:05 UTC
 <!--END_SECTION:waka-->
