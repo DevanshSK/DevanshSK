@@ -44,7 +44,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 **🐱 My GitHub Data** 
 
-> 📦 165.9 kB Used in GitHub's Storage 
+> 📦 166.0 kB Used in GitHub's Storage 
  > 
 > 🏆 149 Contributions in the Year 2026
  > 
@@ -81,32 +81,32 @@ Sunday                   272 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 28 mins       █████████████░░░░░░░░░░░░   51.03 % 
-Java                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Markdown                 2 hrs 28 mins       █████████████░░░░░░░░░░░░   51.00 % 
+Java                     55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Antigravity CLI          2 hrs 49 mins       ███████████████░░░░░░░░░░   58.32 % 
-VS Code                  1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-IntelliJ IDEA            55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Antigravity CLI          2 hrs 49 mins       ███████████████░░░░░░░░░░   58.29 % 
+VS Code                  1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+IntelliJ IDEA            55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 
 🐱‍💻 Projects: 
-portfolio                3 hrs 44 mins       ███████████████████░░░░░░   77.31 % 
-LLD TUF                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+portfolio                3 hrs 44 mins       ███████████████████░░░░░░   77.26 % 
+LLD TUF                  54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 mm-webapp                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 superpowers              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 TUF-DSA                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (66.38%)
+⏱ AI Coding Time: 3 hrs 13 mins (66.34%)
 
 ✍️ 0 lines written by AI, 401 lines written by hand (0.0% AI-written)
 
@@ -140,5 +140,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2026 21:50:12 UTC
+ Last Updated on 23/10/2026 21:34:07 UTC
 <!--END_SECTION:waka-->
