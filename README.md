@@ -36,7 +36,7 @@ I am a Full-stack developer🧑‍💻 from 🏠Gwalior, M.P., India.
 
 ## ⚡ Stats ⚡
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2014%20mins-blue?style=flat)
 
@@ -81,35 +81,35 @@ Sunday                   316 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   38.70 % 
-Java                     1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.60 % 
-TypeScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 1 hr 58 mins        ████████████░░░░░░░░░░░░░   47.29 % 
+TypeScript               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Java                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.83 % 
-IntelliJ IDEA            2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.64 % 
-Antigravity              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+VS Code                  2 hrs 26 mins       ███████████████░░░░░░░░░░   58.44 % 
+IntelliJ IDEA            1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Antigravity              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🐱‍💻 Projects: 
-LLD TUF                  1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   37.18 % 
-mm-webapp                1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Unknown Project          1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-work-logs                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-portfolio                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+mm-webapp                1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+Unknown Project          1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+LLD TUF                  59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+work-logs                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+portfolio                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (32.01%)
+⏱ AI Coding Time: 1 hr 38 mins (39.11%)
 
-✍️ 0 lines written by AI, 513 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 236 lines written by hand (0.0% AI-written)
 
 🔤 522,082 Input Tokens, 14,025 Output Tokens
 
@@ -141,5 +141,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:28:47 UTC
+ Last Updated on 28/10/2026 22:45:13 UTC
 <!--END_SECTION:waka-->
