@@ -81,33 +81,33 @@ Sunday                   316 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ████████████░░░░░░░░░░░░░   47.29 % 
-TypeScript               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Java                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Markdown                 1 hr 58 mins        ████████████░░░░░░░░░░░░░   47.32 % 
+TypeScript               1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Java                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
 Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       ███████████████░░░░░░░░░░   58.44 % 
-IntelliJ IDEA            1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+VS Code                  2 hrs 26 mins       ███████████████░░░░░░░░░░   58.48 % 
+IntelliJ IDEA            1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.20 % 
 Antigravity              19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 Antigravity CLI          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🐱‍💻 Projects: 
-mm-webapp                1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Unknown Project          1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-LLD TUF                  59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-work-logs                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+mm-webapp                1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Unknown Project          1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+LLD TUF                  59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+work-logs                33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 portfolio                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 💻 Operating System: 
-Windows                  4 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 38 mins (39.11%)
+⏱ AI Coding Time: 1 hr 38 mins (39.14%)
 
 ✍️ 0 lines written by AI, 236 lines written by hand (0.0% AI-written)
 
@@ -141,5 +141,5 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DevanshSK/DevanshSK/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:45:13 UTC
+ Last Updated on 29/10/2026 22:54:24 UTC
 <!--END_SECTION:waka-->
